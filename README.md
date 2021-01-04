@@ -13,5 +13,6 @@ Deixei comentários onde eu recomendo a mudança possíveis (para quem não ente
 
 Ah, sobre os icons de redes sociais. Você pode consultar todos as disposibilidades utilizando a própria biblioteca do Bootstrap [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)
 
-## Tecnologias Utilizadas
+## Créditos
 - [Boostrap 5](https://getbootstrap.com/)
+- [The Nigmatic on Unsplash](https://unsplash.com/@thenigmatic?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
