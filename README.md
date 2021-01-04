@@ -1,4 +1,4 @@
-# hublinks
+# Hub Links
 Have your own link hub (page). In the best Linketree style. Made entirely in Bootstrap 5.
 
 ## Sobre o HubLink
