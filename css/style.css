@@ -1,0 +1,107 @@
+body {
+    /* Mudar cor do fundo */
+    background-color: #000000!important;
+    /* Mudar família da fonte */
+    font-family:'Montserrat', sans-serif!important;
+    /* Mudar cor da fonte */
+    color: #ffffff!important;
+    /* Não alterar */
+    font-size: 1.1rem!important;
+    line-height: 1.5rem!important;
+    text-align: center!important;
+}
+
+.container-fluid {
+    max-width: 540px;
+}
+
+/* PHOTO */
+.photo {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.photo img {
+    border-radius: 50%;
+    max-width: 250px;
+}
+
+/* TITLE */
+.title h1 {
+    font-weight: 800;
+    font-size: 2.5rem;
+    line-height: 3rem;;
+}
+
+.title h2 {
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2.5rem;;
+}
+
+/* LINKS*/
+.links {
+    margin-bottom: 40px;
+}
+
+/* BOTÃO */
+.botao {
+    /* Mudar cor da fonte do botão */
+    color: #000000;
+    /* Mudar cor de fundo do botão */
+    background-color: #ffffff;
+    /* Não alterar */
+    max-width: 100%;
+    min-height: 2.2rem;
+    vertical-align: middle;
+    margin-top: 1.5rem;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+    border-radius: 50px;
+    padding-top: 0.3rem;
+}
+
+.botao:hover {
+    /* Cor do texto e fundo - Quando tem link */
+    color: #ffffff;
+    background-color: #e7323f;
+}
+
+/* SOCIAL */
+.social {
+    margin-bottom: 40px;
+}
+.social a {
+    text-decoration: none;
+    /* Mudar cor da fonte do ícone */
+    color: #ffffff;
+}
+
+.social a:hover {
+    /* Cor do ícone - Quando tem link */
+    text-decoration: none;
+    color: #e7323f;
+}
+
+.social ul li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+/* FOOTER */
+footer {
+    font-size: 0.8rem;
+    line-height: 1rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #e7323f;
+}
