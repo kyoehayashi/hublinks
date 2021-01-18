@@ -15,5 +15,5 @@ Ah, sobre os icons de redes sociais. Você pode consultar todos as disposibilida
 
 ## Créditos
 - [Boostrap 5](https://getbootstrap.com/)
-- [The Nigmatic on Unsplash](https://unsplash.com/@thenigmatic?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 - [Lorem Ipsum](https://www.lipsum.com/)
+- [Photo by Joey Nicotra](https://unsplash.com/@joeynicotra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
